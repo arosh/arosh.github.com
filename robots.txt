@@ -1,2 +1,0 @@
-User-Agent: *
-Disallow: /yugioh-ocg-limit-diff/
